@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>BskMcLink</AssemblyName>
+    <RootNamespace>BskMcLink</RootNamespace>
+    <Description>Lightweight dependency-free IPv6 P2P UDP tunnel and offline invite-code link library for Minecraft Java LAN multiplayer (logic &amp; transport only, no UI).</Description>
+  </PropertyGroup>
+</Project>

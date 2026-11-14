@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BskMcLink/BskMcLink.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BskMcLink.Tests/BskMcLink.Tests.csproj" />
+  </Folder>
+</Solution>
